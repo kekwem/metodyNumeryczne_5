@@ -1,0 +1,10 @@
+C:\Users\Dimon\source\repos\calkowanie\bin\Debug\calkowanie.exe.config
+C:\Users\Dimon\source\repos\calkowanie\bin\Debug\calkowanie.exe
+C:\Users\Dimon\source\repos\calkowanie\bin\Debug\calkowanie.pdb
+C:\Users\Dimon\source\repos\calkowanie\obj\Debug\calkowanie.csproj.AssemblyReference.cache
+C:\Users\Dimon\source\repos\calkowanie\obj\Debug\calkowanie.Form1.resources
+C:\Users\Dimon\source\repos\calkowanie\obj\Debug\calkowanie.Properties.Resources.resources
+C:\Users\Dimon\source\repos\calkowanie\obj\Debug\calkowanie.csproj.GenerateResource.cache
+C:\Users\Dimon\source\repos\calkowanie\obj\Debug\calkowanie.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\calkowanie\obj\Debug\calkowanie.exe
+C:\Users\Dimon\source\repos\calkowanie\obj\Debug\calkowanie.pdb
